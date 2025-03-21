@@ -7,7 +7,7 @@
 
 <div align="center">
 
-🔭 I’m currently a **Student** currently pursuing my BTECH Degree in field of Computer Science and Enginnering (CORE)
+🔭 I’m currently a **Student** currently pursuing my BTECH Degree in field of Electrical Engineering.
 
 🌱 I’m passionate about Web Development and currently learning and polishing skills **React, NodeJS, NextJS, React Native**.
 
@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,npm,elixir" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,git,nodejs,python,javascript,typescript,nextjs,perl,pug" /><br>
+    <img src="https://skillicons.dev/icons?i=htmk,css,vscode,github,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,git,python,javascript" /><br>
 </div>
 
 <!-- <br/>
