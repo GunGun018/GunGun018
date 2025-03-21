@@ -5,7 +5,7 @@
 
 <div align="center">
 
-🔭 I’m currently a **Student** currently pursuing my BTECH Degree in field of Electrical Engineering.
+🔭 I’m currently a **Student** currently pursuing my BTECH Degree in field of Electrical Engineering from IIT, ISM Dhanbad.
 
 🌱 I’m passionate about Web Development and currently learning and polishing skills **React, NodeJS, NextJS, React Native**.
 
